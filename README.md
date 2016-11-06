@@ -1,4 +1,5 @@
 PHP-Barcode 0.4
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f1001dd5f8b64ac28e65ae73c2301426)](https://www.codacy.com/app/theel0ja/php-barcode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=theel0ja/php-barcode&amp;utm_campaign=Badge_Grade)
 
 PHP-Barcode generates
   - Barcode-Images using libgd (png, jpg,gif),
