@@ -157,6 +157,7 @@ You can use the following encodings (when you have genbarcode):
 --------------------------------------------------------------------------------------------------------------------------
 
 For more function see [php-barcode.php](php-barcode.php)
+
 Also see [barcode.php](barcode.php) or just use them :)
 
 
